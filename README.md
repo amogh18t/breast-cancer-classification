@@ -1,14 +1,12 @@
-# breast-cancer-classification
-
-## Binary Classification using Transfer Learning models and their Comparison
+# Binary Classification using Transfer Learning models and their Comparison
 
 **The packages to be installed/imported are as under:**
-● Numpy
-● OpenCV-python
-● Tensorflow	
-● Keras	
-● Matplotlib● Seaborn
-● Scikit-learn 
+● Numpy  
+● OpenCV-python  
+● Tensorflow	  
+● Keras	  
+● Matplotlib● Seaborn  
+● Scikit-learn  
 
 **If not using kaggle(running locally)
 If using kaggle**
