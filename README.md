@@ -1,6 +1,6 @@
 # breast-cancer-classification
 
-##Binary Classification using Transfer Learning models and their Comparison
+## Binary Classification using Transfer Learning models and their Comparison
 
 **The packages to be installed/imported are as under:**
 ● Numpy 
