@@ -17,5 +17,5 @@
 **If using kaggle**
 1. Import the notebook.
 2. Add the `BreaKHis400X` dataset on the kaggle.
-3. Turn on the **GPU** option in the accelerator and **Internet ON** in Internet option. 	 	
+3. Turn on the ```GPU``` option in the accelerator and ```Internet ON``` in Internet option. 	 	
 4. Run the code.
