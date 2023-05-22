@@ -1,13 +1,13 @@
 # Binary Classification using Transfer Learning models and their Comparison
 
 ## **The packages to be installed/imported are as under:**    
-● Numpy  
-● OpenCV-python  
-● Tensorflow	  
-● Keras	  
-● Matplotlib  
-● Seaborn  
-● Scikit-learn  
+- Numpy  
+- OpenCV-python  
+- Tensorflow	  
+- Keras	  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
 
 ## **If not using kaggle(running locally)**
 1. Install all the dependencies named above.
